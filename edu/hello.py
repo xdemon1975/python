@@ -108,6 +108,7 @@ print(l)
 
 t = "a", "b", 4, 5
 print(t)
+print(t[1])
 
 
 
